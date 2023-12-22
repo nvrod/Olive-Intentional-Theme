@@ -1,0 +1,33 @@
+{
+  "name": "olive-intentional-theme",
+  "displayName": "Olive-Intentional-Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olive Intentional Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Olive Intentional Theme-color-theme.json"
+      }
+    ]
+  },
+
+  "icon": "Icons/Intentional-Co-Logo.png",
+  "author": {
+    "name": "Nicolas Valbuena",
+    "email": "nicolasvalbuenaro@gmail.com",
+    "url": "https://www.linkedin.com/in/nvrod/"
+  },
+  "repository": {
+    "url": "https://github.com/nvrod/Navy-Intentional-Theme",
+    "type": "git"
+  },
+  "publisher": "Intentional-Co"
+}
