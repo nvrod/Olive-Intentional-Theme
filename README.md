@@ -1,14 +1,14 @@
 
 <p align="center">
    <img src="Icons/Intentional-Co-Logo.png.png" width="120">
-   <h2 align="center" style="letter-spacing:1px;font-weight:900">Intentional Dark Theme</h2>
+   <h2 align="center" style="letter-spacing:1px;font-weight:900">Intentional Olive Theme</h2>
 </p>
 
-<p align="center" style="font-size:1.2rem">A very soft navy color theme.</p>
+<p align="center" style="font-size:1.2rem">A very dark olive color theme.</p>
 
 <p  align="center">
-   <img src="Icons/css.jpeg" width="400" height="200">
-   <img src="Icons/js.jpeg" width="400" height="200">
+   <img src="Icons/css.png" width="400" height="200">
+   <img src="Icons/js.png" width="400" height="200">
 </p>
 
 
@@ -16,9 +16,9 @@
 ## Install
 
 1. Open the **Extensions** sidebar in VS Code.
-2. Search for `Navy Intentional Theme`. Choose the one by **Intentional-Co.**
+2. Search for `Olive Intentional Theme`. Choose the one by **Intentional-Co.**
 3. Click the **Install** button
-4. Go to Preferences ‣ Color Theme ‣ **Navy Intentional Theme**
+4. Go to Preferences ‣ Color Theme ‣ **Olive Intentional Theme**
 5. I suggest you use the following code into your **settings.json**, this will help to get a vibrant color into the theme 👇
 
 ```json
@@ -40,9 +40,6 @@
             "editorBracketMatch.border": "#ffffff2e",
          },
 
-         "editor.tokenColorCustomizations": {
-            "comments": "#07fc0380",      
-         },
          "editor.guides.bracketPairs": true,
          "editor.autoClosingBrackets": "always",
          "git.confirmSync": false,
